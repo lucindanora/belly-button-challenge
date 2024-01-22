@@ -13,6 +13,8 @@ DASHBOARD URL: https://lucindanora.github.io/belly-button-challenge/
 
 REFERENCES:
 
+I worked with my study group, reviewed in class material and web resources (listed below), and utilized office hours for help on this challenge. 
+
 https://htmlcheatsheet.com/js/
 
 
