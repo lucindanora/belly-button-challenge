@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly Button Biodiverity Challenge
 # challenge 14
 
 Assignment: Build an interactive dashboard to explore the Belly Button Biodiversity dataset (https://robdunnlab.com/projects/belly-button-biodiversity/),  which catalogs the microbes that colonize human navels.
@@ -6,7 +6,10 @@ Assignment: Build an interactive dashboard to explore the Belly Button Biodivers
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 
-Dashboard URL: https://lucindanora.github.io/belly-button-challenge/
+DASHBOARD URL: https://lucindanora.github.io/belly-button-challenge/
+
+
+
 
 REFERENCES:
 
