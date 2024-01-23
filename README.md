@@ -1,4 +1,4 @@
-# Belly Button Biodiverity Challenge
+# Belly Button Biodiversity Challenge
 # challenge 14
 
 Assignment: Build an interactive dashboard to explore the Belly Button Biodiversity dataset (https://robdunnlab.com/projects/belly-button-biodiversity/),  which catalogs the microbes that colonize human navels.
